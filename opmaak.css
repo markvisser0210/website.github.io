@@ -1,0 +1,99 @@
+body {	
+		background-color: #72B7FA;
+}
+header{ 
+		color: #333;
+		font-size: 50px;
+		text-align: center;
+		border-bottom:2px solid #333;
+		width:75%;
+}
+
+h1 { 
+		color: #333;
+}
+
+h2 { 
+		color: #333;
+}
+
+h3 { 
+		color: #333;
+}
+
+
+h4 { 
+		color: #333;
+}
+
+p { 
+		color: #333;
+}
+
+ul { 
+		color: #333;
+}
+
+.index{	width: 75%;
+}
+
+.Hackers {
+		color: #333;
+		width: 75%;
+}
+
+.Benodigdevaardigheden{
+		width: 75%;
+		color: #333;
+}
+
+.Watisidigitalebeveiliging{
+		color: #333
+}
+
+.desleepwet{
+		width:75%;
+}
+.veiligheidsbewust{
+		width:75%;
+}
+
+.Beveiligingomzeilen{
+		width:75%;
+		color: #333
+}
+
+.Watiseenvirus{	width: 75%;
+		color: #333
+		background-color:green;
+}
+
+.tipsomjecomputertebeschermen{
+		width:75%;
+}
+
+nav {
+    		float: left;
+    		max-width: 200px;
+   		margin: 10px;
+    		padding: 1em;
+		text-decoration: none;
+}
+
+article{ 	margin-left: 170px;
+  	 	border-left: 1.5px solid #333;
+  	 	padding: 1em;
+   	 	overflow: hidden;
+}
+
+		a:link{ color: black;
+		}
+
+		a:visited{ color: darkblue;
+		}
+
+		a:hover{ color: grey;
+		}
+
+		a:active{ color: grey;
+		}
